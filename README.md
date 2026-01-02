@@ -131,4 +131,6 @@ This project demonstrates intermediate-to-advanced Power BI skills, strong analy
 
 <img width="1045" height="589" alt="image" src="https://github.com/user-attachments/assets/510e2209-2633-405f-8f28-284d62db4479" />
 
+
+
  
